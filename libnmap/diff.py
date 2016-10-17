@@ -1,5 +1,9 @@
 # -*- coding: utf-8 -*-
+"""
+have a try to test how to use github
+thk
 
+"""
 
 class DictDiffer(object):
     """
@@ -82,3 +86,7 @@ class NmapDiff(DictDiffer):
 class NmapDiffException(Exception):
     def __init__(self, msg):
         self.msg = msg
+
+
+
+        
